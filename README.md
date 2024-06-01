@@ -93,6 +93,13 @@ Please read [Contributing to Black Python Devs](CONTRIBUTING.md)
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/sandramsc">
+            <img src="https://avatars.githubusercontent.com/u/19821445?v=4" width="100;" alt="sandramsc"/>
+            <br />
+            <sub><b>Sandra Ashipala</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ankitgadling">
             <img src="https://avatars.githubusercontent.com/u/86833325?v=4" width="100;" alt="ankitgadling"/>
             <br />
